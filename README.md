@@ -1,4 +1,4 @@
-# the_holy_quran
+# Iqra Quran App
 
 A new Flutter project.
 
